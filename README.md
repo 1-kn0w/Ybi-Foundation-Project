@@ -1,2 +1,2 @@
 # Ybi-Foundation-Project
-Project for ybi foundation.
+A Movie Recommendation project for ybi foundation.
